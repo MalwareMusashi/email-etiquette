@@ -1,4 +1,4 @@
-# email-etiquette
+# Email-Etiquette
 
 A small skill that teaches an AI agent to write a decent email. No regex, no install scripts, no spaCy models grepping your outbound for "urgent." Just a `SKILL.md` your harness reads when the agent needs to compose, send, or read mail.
 
